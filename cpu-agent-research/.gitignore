@@ -1,0 +1,8 @@
+# Ignore the virtual environment
+venv/
+__pycache__/
+
+# Ignore databases and generated files
+*.db
+refined_papers/
+FINAL_RESEARCH_REPORT.md
