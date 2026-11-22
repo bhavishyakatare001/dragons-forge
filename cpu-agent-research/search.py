@@ -3,20 +3,7 @@ import xml.etree.ElementTree as ET
 import json
 import os
 
-    
-    
-    
-    
-    
-    
-   
-    
-   
-    
-    
-       
-        
-            
+
 def search_arxiv(query, max_results=3):
     """
     Connects to the free ArXiv API over the internet.
